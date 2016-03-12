@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CUSTOM GREETING CARDS AND ORIGINAL HANDMADE ARTWORK]]></title>
         <description><![CDATA[CUSTOM GREETING CARDS AND ORIGINAL HANDMADE ARTWORK]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dafoe-designs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 16:45:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 03:36:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dafoe-designs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/599cbf56-b090-48c4-85af-41be66d56825.jpg">]]></description>
-            <link>undefined36b691c9-5442-441a-9594-f50067fddcf4/index.html</link>
+            <link>https://thegrid.ai/dafoe-designs/36b691c9-5442-441a-9594-f50067fddcf4/index.html</link>
             <guid isPermaLink="false">36b691c9-5442-441a-9594-f50067fddcf4</guid>
-            <pubDate>Fri, 22 Jan 2016 16:45:21 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 03:35:46 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CUSTOM GREETING CARDS AND ORIGINAL HANDMADE ARTWORK]]></title>
+        <description><![CDATA[CUSTOM GREETING CARDS AND ORIGINAL HANDMADE ARTWORK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 16:24:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Bomb Pop</p>]]></description>
+            <link>undefinedbomb-pop/index.html</link>
+            <guid isPermaLink="false">66552473-d686-435c-8408-7b5f4676fa54</guid>
+            <pubDate>Tue, 26 Apr 2016 16:24:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

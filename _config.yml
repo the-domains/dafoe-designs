@@ -1,20 +1,4 @@
-name: Dafoe Designs
-favicon: null
-layout_spectrum: 0.95589
 typography_spectrum: 0.52097
-title: CUSTOM GREETING CARDS AND ORIGINAL HANDMADE ARTWORK
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d7fff4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.875
   saturation: 0
   rhythmicContrast: 0.36795946792699397
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.95589
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Dafoe Designs
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: CUSTOM GREETING CARDS AND ORIGINAL HANDMADE ARTWORK
+description: THE GRID SUCKS
 purpose: []
